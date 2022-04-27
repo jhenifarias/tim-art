@@ -80,7 +80,7 @@ h1 a {
 }
 
 .img-work  {
-  width: 450px;
+  width: 35rem;
 }
 
 
@@ -119,7 +119,7 @@ h1 a {
 }
 
 .profile-image {
-  max-width: 400px;
+  max-width: 25rem;
   float: left;
   position: relative;
 }
