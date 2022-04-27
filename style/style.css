@@ -137,6 +137,9 @@ h1 a {
   width: 2.4rem;;
 }
 
+.voltar {
+  padding-left: 10px;
+}
 
 /* CV */
 .cv {
